@@ -100,6 +100,6 @@ This project is licensed under the MIT License.
 
 ---
 
-## 📞 Contact
+## 📞 Live Demo
 
-For any queries or collaboration, feel free to reach out!
+https://e-com-shop-pplication.netlify.app/
