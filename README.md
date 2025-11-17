@@ -45,7 +45,7 @@ src/
 
 ## 📦 Tech Stack
 
-* **Frontend:** React, React-Bootstrap
+* **Frontend:** React, css
 * **State Management:** Redux Toolkit
 * **Icons:** Ionicons
 * **Styling:** CSS Modules / Global CSS
@@ -57,8 +57,8 @@ src/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-repo/ecommerce-app.git
-cd ecommerce-app
+git clone https://github.com/your-repo/e-com-app.git
+cd e-com-app
 ```
 
 2. Install dependencies:
@@ -91,13 +91,6 @@ All built using **React-Bootstrap's Grid System (Container, Row, Col)**.
 
 A user-friendly e-commerce platform where customers can explore products, manage their cart, and conveniently place orders with a smooth checkout experience.
 
----
-
-## 📍 Sample Address (India)
-
-70 MG Road,
-Bengaluru, Karnataka 560001,
-India.
 
 ---
 
